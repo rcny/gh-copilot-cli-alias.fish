@@ -4,7 +4,7 @@ Installs the `gh copilot suggest` and `gh copilot explain` aliases as per the of
 
 ## Install via fisher
 
-```fish
+```
 fisher install rcny/gh-copilot-cli-alias.fish
 ```
 
