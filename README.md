@@ -1,6 +1,6 @@
 # gh-copilot-cli-alias.fish
 
-Installs the `gh copilot suggest` and `gh copilot explain` aliases as per [the official GitHub Copilot in the CLI documentation](https://docs.github.com/en/copilot/github-copilot-in-the-cli/using-github-copilot-in-the-cli#setting-up-aliases-for-copilot-in-the-cli), but for the Fish shell as it's not natively supported by the upstream.
+Installs the `gh copilot suggest` and `gh copilot explain` aliases as per [the official GitHub Copilot in the CLI documentation](https://docs.github.com/en/copilot/github-copilot-in-the-cli/using-github-copilot-in-the-cli#setting-up-aliases-for-copilot-in-the-cli), but for the Fish shell as [it's not natively supported by the upstream](https://github.com/github/gh-copilot/issues/41).
 
 ## Install via Fisher
 
