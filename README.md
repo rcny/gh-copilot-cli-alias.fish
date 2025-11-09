@@ -1,3 +1,6 @@
+> [!WARNING]
+> GitHub [deprecated](https://github.com/github/gh-copilot/commit/c69ed6bf954986a084c87d6940a00422f86acf13) its `gh copilot` CLI extension in favor of [the dedicated CLI tool](https://github.com/github/copilot-cli).
+
 # gh-copilot-cli-alias.fish
 
 Installs the `gh copilot suggest` and `gh copilot explain` aliases as per [the official Configuring GitHub Copilot in the CLI documentation](https://docs.github.com/en/copilot/managing-copilot/configure-personal-settings/configuring-github-copilot-in-the-cli#setting-up-aliases), but for the Fish shell.
